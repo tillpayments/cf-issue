@@ -25,6 +25,8 @@ Install packages
 yarn install
 ```
 
+***Update .env with correct gateway URL***
+
 Run the development server:
 
 ```bash
